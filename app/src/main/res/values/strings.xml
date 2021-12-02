@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoldmanSachs</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="search_hint">Enter Date in yyyy-mm-dd format</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="socket_time_out">Socket timeout Click <font color='#FF3700B3'>Try again</font></string>
+    <string name="no_network">Enable network connectivity and Click <font color='#FF3700B3'>Try again</font></string>
+    <string name="try_again">Something went wrong <font color='#FF3700B3'>Try again</font></string>
+</resources>
